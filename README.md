@@ -39,6 +39,12 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code)
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat-square&logo=Mathworks)
+![ABAQUS](https://img.shields.io/badge/-ABAQUS-05122A?style=flat-square)
+![ETABS](https://img.shields.io/badge/-ETABS-05122A?style=flat-square)
+![SAP2000](https://img.shields.io/badge/-SAP2000-05122A?style=flat-square)
+![OpenSees](https://img.shields.io/badge/-OpenSees-05122A?style=flat-square)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat-square&logo=autodesk)
 
 ---
 
