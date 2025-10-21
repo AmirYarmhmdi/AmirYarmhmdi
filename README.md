@@ -44,7 +44,10 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&logo=Chainlink&logoColor=00BFFF)
 
+![Finite Element Method](https://img.shields.io/badge/-Finite%20Element%20Method-05122A?style=flat-square&logo=python&logoColor=3776AB)
 ![ABAQUS](https://img.shields.io/badge/-ABAQUS-05122A?style=flat-square)
+![Code_Aster](https://img.shields.io/badge/-Code_Aster-05122A?style=flat-square&logo=linux&logoColor=F5DD28)
+![Salome_Meca](https://img.shields.io/badge/-Salome--Meca-05122A?style=flat-square&logo=ubuntu&logoColor=E95420)
 ![ETABS](https://img.shields.io/badge/-ETABS-05122A?style=flat-square)
 ![SAFE](https://img.shields.io/badge/-SAFE-05122A?style=flat-square)
 ![SAP2000](https://img.shields.io/badge/-SAP2000-05122A?style=flat-square)
