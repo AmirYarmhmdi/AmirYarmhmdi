@@ -9,7 +9,7 @@
 ---
 
 - 🏗️ Structural & Earthquake Engineer | MSc in Earthquake Engineering (Thesis on numerical and experimental evaluation of concrete structures)  
-- 🤖 Currently pursuing a second MSc in Artificial Intelligence & Data at **Politecnico di Torino**, focusing on **AI-driven Structural Health Monitoring** and **IoT-based Earthquake Early Warning Systems**  
+- 🤖 Currently pursuing a second MSc in Artificial Intelligence & Data at **Politecnico di Torino**, focusing on **AI-driven Structural Health Monitoring**, **IoT-based Earthquake Early Warning Systems** and **Developing a Structural software**
 - ⚙️ Developer of **IoT-based Earthquake Early Warning and Vital Utilities Shut-off System** using **CherryPy**, **MQTT**, and **ESP32**  
 - 🧠 Passionate about combining **Machine Learning**, **Signal Processing**, and **Seismic Engineering** for intelligent infrastructure resilience  
 - 📫 Reach me at: `yarmohammadi.amir@gmail.com`
@@ -18,8 +18,8 @@
 
 ### 🧩 Research & Development Focus
 
-- Earthquake Early Warning Systems (EEWS)  
-- IoT-based Structural Health Monitoring (SHM)  
+- IoT-based Earthquake Early Warning Systems (EEWS)  
+- AI-driven Structural Health Monitoring  
 - Frequency-based Damage Detection  
 - AI & Machine Learning in Civil Engineering  
 - Smart Infrastructure and Decision Systems  
@@ -42,6 +42,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&logo=Chainlink&logoColor=00BFFF)
 
 ![ABAQUS](https://img.shields.io/badge/-ABAQUS-05122A?style=flat-square)
 ![ETABS](https://img.shields.io/badge/-ETABS-05122A?style=flat-square)
