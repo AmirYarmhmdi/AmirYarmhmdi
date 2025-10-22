@@ -19,7 +19,7 @@
 
 - IoT-based Earthquake Early Warning Systems (EEWS)  
 - Data-driven Structural Health Monitoring
-- LLM agent in Structural design
+- LLM agents in Structural design
 - AI & Machine Learning Solutions in Civil Engineering problems 
 - Smart Infrastructure and Decision Systems  
 
