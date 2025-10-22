@@ -18,9 +18,9 @@
 ### 🧩 Research & Development Focus
 
 - IoT-based Earthquake Early Warning Systems (EEWS)  
-- AI-driven Structural Health Monitoring  
-- Frequency-based Damage Detection  
-- AI & Machine Learning in Civil Engineering  
+- Data-driven Structural Health Monitoring
+- LLM agent in Structural design
+- AI & Machine Learning Solutions in Civil Engineering problems 
 - Smart Infrastructure and Decision Systems  
 
 ---
