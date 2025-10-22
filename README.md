@@ -9,8 +9,7 @@
 ---
 
 - 🏗️ Structural & Earthquake Engineer | MSc in Earthquake Engineering (Thesis on numerical and experimental evaluation of concrete structures)  
-- 🤖 Currently pursuing a second MSc in Artificial Intelligence & Data at **Politecnico di Torino**, focusing on **AI-driven Structural Health Monitoring**, **IoT-based Earthquake Early Warning Systems** and **Developing a Structural software**
-- ⚙️ Developer of **IoT-based Earthquake Early Warning and Vital Utilities Shut-off System** using **CherryPy**, **MQTT**, and **ESP32**  
+- 🤖 Currently pursuing a second MSc in Artificial Intelligence & Data at **Politecnico di Torino**, focusing on **AI-driven Structural Health Monitoring**, **IoT-based Earthquake Early Warning Systems** and **Developing a Structural software** 
 - 🧠 Passionate about combining **Machine Learning**, **Signal Processing**, and **Seismic Engineering** for intelligent infrastructure resilience  
 - 📫 Reach me at: `yarmohammadi.amir@gmail.com`
 
