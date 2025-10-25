@@ -47,6 +47,7 @@
 ![ABAQUS](https://img.shields.io/badge/-ABAQUS-05122A?style=flat-square)
 ![ANSYS](https://img.shields.io/badge/-ANSYS-05122A?style=flat-square&logo=ansys&logoColor=white)
 ![Code_Aster](https://img.shields.io/badge/-Code_Aster-05122A?style=flat-square&logo=linux&logoColor=F5DD28)
+![Gmsh](https://img.shields.io/badge/-Gmsh-05122A?style=flat-square&logo=gnu&logoColor=74AA9C)
 ![Salome_Meca](https://img.shields.io/badge/-Salome--Meca-05122A?style=flat-square&logo=ubuntu&logoColor=E95420)
 ![ETABS](https://img.shields.io/badge/-ETABS-05122A?style=flat-square)
 ![SAFE](https://img.shields.io/badge/-SAFE-05122A?style=flat-square)
