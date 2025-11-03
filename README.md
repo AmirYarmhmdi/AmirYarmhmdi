@@ -8,9 +8,9 @@
 
 ---
 
-🎓 MSc in Digital skills (Artificial Intelligence & Data) at [Politecnico di Torino]([https://github.com/AmirYarmhmdi](https://www.polito.it/en))
+🎓 MSc in Digital skills (Artificial Intelligence & Data) at [Politecnico di Torino]([https://github.com/AmirYarmhmdi](https://www.polito.it/en)
 
-🎓 MSc in Earthquake Engineering at [International Institute of Earthquake Engineering and Seismology](https://www.iiees.ac.ir/en/)
+🎓 MSc in Earthquake Engineering at [IIEES](https://www.iiees.ac.ir/en/)
 
 ⚙️ Former Structural & Earthquake Engineer, now building intelligent systems for data-driven decision-making, IoT automation, and AI-powered simulation pipelines
 
