@@ -7,10 +7,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/AmirYarmhmdi?label=Follow&style=social)](https://github.com/AmirYarmhmdi)
 
 ---
-👨‍💻 AI Engineer | Developer | Researcher
 
 🎓 MSc in Digital skills (Artificial Intelligence & Data) at [Politecnico di Torino]([https://github.com/AmirYarmhmdi](https://www.polito.it/en))
-🎓 MSc in Earthquake Engineering at [International Institute of Earthquake Engineering and Seismology](https://www.iiees.ac.ir/en/))
+
+🎓 MSc in Earthquake Engineering at [International Institute of Earthquake Engineering and Seismology](https://www.iiees.ac.ir/en/)
+
 ⚙️ Former Structural & Earthquake Engineer, now building intelligent systems for data-driven decision-making, IoT automation, and AI-powered simulation pipelines
 
 💡 Currently developing:
