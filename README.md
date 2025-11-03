@@ -23,9 +23,20 @@ AI-assisted Finite Element Automation using LangChain Agents
 
 📫 Reach me at: yarmohammadi.amir@gmail.com
 ---
+🔬 Focus Areas
 
+AI-driven Structural Health Monitoring (SHM)
+
+LLM Agents & LangGraph for Engineering Workflows
+
+IoT Systems & Edge AI for Real-time Monitoring
+
+Data Analytics, Visualization, and Digital Twins
+
+Intelligent Decision-Support Systems
+---
 ### ⚙️ Tech Stack
-
+Programming & Frameworks:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python)
 ![TCL](https://img.shields.io/badge/-TCL-05122A?style=flat-square)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat-square&logo=Mathworks)
@@ -42,6 +53,7 @@ AI-assisted Finite Element Automation using LangChain Agents
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&logo=Chainlink&logoColor=00BFFF)
 
+Engineering & Simulation Tools:
 ![Finite Element Method](https://img.shields.io/badge/-Finite%20Element%20Method-05122A?style=flat-square&logo=python&logoColor=3776AB)
 ![ABAQUS](https://img.shields.io/badge/-ABAQUS-05122A?style=flat-square)
 ![ANSYS](https://img.shields.io/badge/-ANSYS-05122A?style=flat-square&logo=ansys&logoColor=white)
@@ -66,4 +78,4 @@ AI-assisted Finite Element Automation using LangChain Agents
 
 ---
 
-⭐️ *"Integrating Structural Engineering with Artificial Intelligence for a Smarter, Safer Future."*
+⭐️ "Turning domain expertise into intelligent software — where engineering meets AI."
