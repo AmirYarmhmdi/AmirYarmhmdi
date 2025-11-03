@@ -9,15 +9,13 @@
 ---
 👨‍💻 AI Engineer | Developer | Researcher
 
-🎓 MSc in Digital skills (Artificial Intelligence & Data) at Politecnico di Torino
-
+🎓 MSc in Digital skills (Artificial Intelligence & Data) at [Politecnico di Torino]([https://github.com/AmirYarmhmdi](https://www.polito.it/en))
+🎓 MSc in Earthquake Engineering at [International Institute of Earthquake Engineering and Seismology](https://www.iiees.ac.ir/en/))
 ⚙️ Former Structural & Earthquake Engineer, now building intelligent systems for data-driven decision-making, IoT automation, and AI-powered simulation pipelines
 
 💡 Currently developing:
-
-IoT-based Earthquake Early Warning System (CherryPy + MQTT + ESP32 + Telegram Bot)
-
-AI-assisted Finite Element Automation using LangChain Agents
++ IoT-based Earthquake Early Warning System (CherryPy + MQTT + ESP32 + Telegram Bot)
++ AI-assisted Finite Element Automation using LangChain Agents
 
 🌍 Passionate about bridging engineering intelligence and software intelligence — from smart sensors to autonomous analysis systems.
 
@@ -25,13 +23,10 @@ AI-assisted Finite Element Automation using LangChain Agents
 ---
 🔬 Focus Areas
 
-*- AI-driven Structural Health Monitoring (SHM)
-
-*- LLM Agents & LangGraph for Engineering Workflows
-
-*- IoT Systems & Edge AI for Real-time Monitoring
-
-*- Data Analytics, Visualization, and Digital Twins
+* AI-driven Structural Health Monitoring (SHM)
+* LLM Agents & LangGraph for Engineering Workflows
+* IoT Systems & Edge AI for Real-time Monitoring
+* Data Analytics, Visualization, and Digital Twins
 
 Intelligent Decision-Support Systems
 ---
