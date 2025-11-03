@@ -7,22 +7,21 @@
 [![GitHub followers](https://img.shields.io/github/followers/AmirYarmhmdi?label=Follow&style=social)](https://github.com/AmirYarmhmdi)
 
 ---
+👨‍💻 AI Engineer | Developer | Researcher
 
-- 🏗️ Structural & Earthquake Engineer | MSc in Earthquake Engineering (Thesis on numerical and experimental evaluation of concrete structures)  
-- 🤖 Currently pursuing a second MSc in Artificial Intelligence & Data at **Politecnico di Torino**, focusing on **AI-driven Structural Health Monitoring**, **IoT-based Earthquake Early Warning Systems** and **Developing a Structural software** 
-- 🧠 Passionate about combining **Machine Learning**, **Signal Processing**, and **Seismic Engineering** for intelligent infrastructure resilience  
-- 📫 Reach me at: `yarmohammadi.amir@gmail.com`
+🎓 MSc in Digital skills (Artificial Intelligence & Data) at Politecnico di Torino
 
----
+⚙️ Former Structural & Earthquake Engineer, now building intelligent systems for data-driven decision-making, IoT automation, and AI-powered simulation pipelines
 
-### 🧩 Research & Development Focus
+💡 Currently developing:
 
-- IoT-based Earthquake Early Warning Systems (EEWS)  
-- Data-driven Structural Health Monitoring
-- LLM agents in Structural design
-- AI & Machine Learning Solutions in Civil Engineering problems 
-- Smart Infrastructure and Decision Systems  
+IoT-based Earthquake Early Warning System (CherryPy + MQTT + ESP32 + Telegram Bot)
 
+AI-assisted Finite Element Automation using LangChain Agents
+
+🌍 Passionate about bridging engineering intelligence and software intelligence — from smart sensors to autonomous analysis systems.
+
+📫 Reach me at: yarmohammadi.amir@gmail.com
 ---
 
 ### ⚙️ Tech Stack
