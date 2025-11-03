@@ -8,7 +8,7 @@
 
 ---
 
-🎓 MSc in Digital skills (Artificial Intelligence & Data) at [Politecnico di Torino]([https://github.com/AmirYarmhmdi](https://www.polito.it/en)
+🎓 MSc in Digital skills (Artificial Intelligence & Data) at [Politecnico di Torino](https://www.polito.it/en)
 
 🎓 MSc in Earthquake Engineering at [IIEES](https://www.iiees.ac.ir/en/)
 
