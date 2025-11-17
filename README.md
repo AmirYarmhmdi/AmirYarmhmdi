@@ -12,8 +12,7 @@
 
 🎓 MSc in Earthquake Engineering at [IIEES](https://www.iiees.ac.ir/en/)
 
-⚙️ Former Structural & Earthquake Engineer, now building intelligent systems for data-driven decision-making, IoT automation, and AI-powered simulation pipelines
-
+⚙️ building intelligent systems for data-driven decision-making, IoT automation, and AI-powered simulation pipelines, Former Structural & Earthquake Engineer, now 
 💡 Currently developing:
 + IoT-based Earthquake Early Warning System (CherryPy + MQTT + ESP32 + Telegram Bot)
 + AI-assisted Finite Element Automation using LangChain Agents
