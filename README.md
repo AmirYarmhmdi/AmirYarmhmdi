@@ -12,11 +12,11 @@
 
 🎓 MSc in Earthquake Engineering at [IIEES](https://www.iiees.ac.ir/en/)
 
-⚙️ building intelligent systems for data-driven decision-making, IoT automation, and AI-powered simulation pipelines, Former Structural & Earthquake Engineer.
+⚙️ Building intelligent systems for data-driven decision-making, IoT automation, and AI-powered simulation pipelines, Former Structural & Earthquake Engineer.
 
 💡 Currently developing:
-+ IoT-based Earthquake Early Warning System (CherryPy + MQTT + ESP32 + Telegram Bot)
 + AI-assisted Finite Element Automation using LangChain Agents
++ IoT-based Earthquake Early Warning System (CherryPy + MQTT + ESP32 + Telegram Bot)
 
 🌍 Passionate about bridging engineering intelligence and software intelligence — from smart sensors to autonomous analysis systems.
 
@@ -24,8 +24,8 @@
 ---
 🔬 Focus Areas
 
-* AI-driven Structural Health Monitoring (SHM)
 * LLM Agents & LangGraph for Engineering Workflows
+* AI-driven Structural Health Monitoring (SHM)
 * IoT Systems & Edge AI for Real-time Monitoring
 * Data Analytics, Visualization, and Digital Twins
 
