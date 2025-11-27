@@ -44,12 +44,13 @@ Programming & Frameworks:
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn)
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas)
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&logo=Chainlink&logoColor=00BFFF)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)
-![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&logo=Chainlink&logoColor=00BFFF)
+
 
 Engineering & Simulation Tools:
 
