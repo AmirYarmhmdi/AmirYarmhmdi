@@ -48,6 +48,7 @@ Programming & Frameworks:
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&logo=Chainlink&logoColor=00BFFF)
 
 Engineering & Simulation Tools:
