@@ -73,8 +73,7 @@ Engineering & Simulation Tools:
 ---
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirYarmhmdi&layout=compact&hide=Jupyter%20Notebook" alt="AmirYarmhmdi Top Languages" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirYarmhmdi&" alt="AmirYarmhmdi Streak Stats" />
+<img width="45%" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmirYarmhmdi&layout=compact&hide=Jupyter%20Notebook" />
 </div>
 
 ---
