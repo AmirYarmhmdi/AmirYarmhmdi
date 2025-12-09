@@ -37,6 +37,7 @@ Programming & Frameworks:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python)
 ![TCL](https://img.shields.io/badge/-TCL-05122A?style=flat-square)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat-square&logo=Mathworks)
+![POWERSHELL](https://img.shields.io/badge/-POWERSHELL-05122A?style=flat-square&logo=Mathworks)
 ![CherryPy](https://img.shields.io/badge/-CherryPy-05122A?style=flat-square&logo=Python)
 ![MQTT](https://img.shields.io/badge/-MQTT-05122A?style=flat-square&logo=Eclipse-Mosquitto)
 ![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat-square&logo=espressif)
