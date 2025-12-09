@@ -1,6 +1,6 @@
 # Amir Yarmohamadi
 
-![Profile Views](https://api.visitorbadge.io/api/VisitorHit?user=AmirYarmhmdi&repo=Profile&countColor=%2379C83D)
+![Profile Views](https://api.visitorbadge.io/api/VisitorHit?user=AmirYarmhmdi&repo=Profile&countColor=%2379C83D&initial=1000)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amir-yarmohamadi/)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Amir-Yarmohamadi)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yarmohammadi.amir@gmail.com)
