@@ -15,7 +15,7 @@
 ⚙️ Building intelligent systems for data-driven decision-making, IoT automation, and AI-powered simulation pipelines, Former Structural & Earthquake Engineer.
 
 💡 Currently developing:
-+ AI-assisted Finite Element Automation using LangChain Agents
++ AI-assisted Finite Element Modeling Automation using LangChain Agents
 + IoT-based Earthquake Early Warning System (CherryPy + MQTT + ESP32 + Telegram Bot)
 
 🌍 Passionate about bridging engineering intelligence and software intelligence — from smart sensors to autonomous analysis systems.
