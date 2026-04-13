@@ -18,7 +18,7 @@
 + AI-assisted Finite Element Modeling Automation using LangChain Agents
 + IoT-based Earthquake Early Warning System (CherryPy + MQTT + ESP32 + Telegram Bot)
 
-🌍 Passionate about bridging engineering intelligence and software intelligence — from smart sensors to autonomous analysis systems.
+🌍 Passionate about bridging engineering intelligence and software intelligence. from smart sensors to autonomous analysis systems.
 
 📫 Reach me at: yarmohammadi.amir@gmail.com
 ---
