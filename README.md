@@ -68,7 +68,7 @@ Engineering & Simulation Tools:
 ![SeismoStruct](https://img.shields.io/badge/-SeismoStruct-05122A?style=flat-square)
 ![SeismoSignal](https://img.shields.io/badge/-SeismoSignal-05122A?style=flat-square)
 ![DeepSoil](https://img.shields.io/badge/-DeepSoil-05122A?style=flat-square)
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat-square&logo=autodesk)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat-square&logo=autodesk) 
 
 ---
 
