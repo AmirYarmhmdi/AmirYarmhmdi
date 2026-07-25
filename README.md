@@ -79,4 +79,4 @@ Engineering & Simulation Tools:
 
 ---
 
-⭐️ "Turning domain expertise into intelligent software — where engineering meets AI."
+⭐️ "Turning domain expertise into intelligent software, where engineering meets AI."
