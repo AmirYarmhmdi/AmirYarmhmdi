@@ -86,7 +86,6 @@
 ![ANSYS](https://img.shields.io/badge/-ANSYS-05122A?style=flat-square)
 ![Code_Aster](https://img.shields.io/badge/-Code_Aster-05122A?style=flat-square)
 ![Gmsh](https://img.shields.io/badge/-Gmsh-05122A?style=flat-square)
-![Salome_Meca](https://img.shields.io/badge/-Salome-Meca-05122A?style=flat-square)
 ![OpenSees](https://img.shields.io/badge/-OpenSees-05122A?style=flat-square)
 ![ETABS](https://img.shields.io/badge/-ETABS-05122A?style=flat-square)
 ![SAP2000](https://img.shields.io/badge/-SAP2000-05122A?style=flat-square)
