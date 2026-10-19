@@ -7,7 +7,7 @@
 
 ---
 
-🎓 MSc in Digital Skills (Artificial Intelligence & Data) at [Politecnico di Torino](https://www.polito.it/en)
+🎓 MSc in Digital Skills (Artificial Intelligence & Data) at [Politecnico di Torino](https://www.polito.it/en), Italy
 
 🎓 MSc in Earthquake Engineering | Structural Engineering Background
 
