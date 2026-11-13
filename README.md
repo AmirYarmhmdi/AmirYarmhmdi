@@ -8,13 +8,17 @@
 
 ---
 
-## 01. Who am I?
+<h2>
+  <span style="color: #2563EB;">Who am I?</span>
+</h2>
 
 I'm an AI Engineer with a background in Structural Engineering and an MSc in Digital Skills for Sustainable Societal Transitions from Politecnico di Torino, Italy.
 
 I combine AI engineering, software development, and engineering domain expertise to build intelligent software systems for real-world applications.
 
-## 02. What do I build?
+<h2>
+  <span style="color: #0D9488;">What do I build?</span>
+</h2>
 
 I design and develop:
 
@@ -24,7 +28,9 @@ I design and develop:
 
 My focus is on building practical, reliable, and verifiable AI systems rather than simple conversational applications.
 
-## 03. What are my areas of expertise?
+<h2>
+  <span style="color: #7C3AED;">What are my areas of expertise?</span>
+</h2>
 
 - **Agentic AI:** AI agents, LangGraph, tool calling, and workflow orchestration.
 - **Generative AI & RAG:** LLM applications, retrieval pipelines, and knowledge-based systems.
