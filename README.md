@@ -2,19 +2,19 @@
 
 ### AI Engineer | Building Intelligent Software Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amir-yarmohamadi/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Amir-Yarmohamadi)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:yarmohammadi.amir@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yarmohammadi.amir@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-2563EB?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-yarmohamadi/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Amir-Yarmohamadi)
 
 ---
 
-### 👤 Who am I?
+## 01. Who am I?
 
 I'm an AI Engineer with a background in Structural Engineering and an MSc in Digital Skills for Sustainable Societal Transitions from Politecnico di Torino, Italy.
 
 I combine AI engineering, software development, and engineering domain expertise to build intelligent software systems for real-world applications.
 
-### 🚀 What do I build?
+## 02. What do I build?
 
 I design and develop:
 
@@ -24,7 +24,7 @@ I design and develop:
 
 My focus is on building practical, reliable, and verifiable AI systems rather than simple conversational applications.
 
-### 🎯 What are my areas of expertise?
+## 03. What are my areas of expertise?
 
 - **Agentic AI:** AI agents, LangGraph, tool calling, and workflow orchestration.
 - **Generative AI & RAG:** LLM applications, retrieval pipelines, and knowledge-based systems.
@@ -33,7 +33,7 @@ My focus is on building practical, reliable, and verifiable AI systems rather th
 
 ---
 
-### 🛠️ Technology Stack
+## Technology Stack
 
 | Area | Technologies |
 |---|---|
@@ -46,11 +46,11 @@ My focus is on building practical, reliable, and verifiable AI systems rather th
 
 ---
 
-### 📫 Contact
+## Contact
 
 - Email: [yarmohammadi.amir@gmail.com](mailto:yarmohammadi.amir@gmail.com)
 - LinkedIn: [Amir Yarmohamadi](https://www.linkedin.com/in/amir-yarmohamadi/)
 
 ---
 
-*"Building intelligent software systems through Agentic AI, RAG, and engineering expertise."*
+*Building intelligent software systems through Agentic AI, RAG, and engineering expertise.*
