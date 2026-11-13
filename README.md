@@ -1,53 +1,56 @@
 # Amir Yarmohamadi
 
-### AI Engineer | Agentic AI | Intelligent Software Systems
+### AI Engineer | Building Intelligent Software Systems
 
-
-\
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amir-yarmohamadi/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Amir-Yarmohamadi)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:yarmohammadi.amir@gmail.com)
 
 ---
 
-### Who am I?
+### 👤 Who am I?
 
-I'm an AI Engineer with a background in Engineering and an MSc in Digital Skills for Sustainable Societal Transitions from Politecnico di Torino, Italy.
+I'm an AI Engineer with a background in Structural Engineering and an MSc in Digital Skills for Sustainable Societal Transitions from Politecnico di Torino, Italy.
 
-I combine AI engineering, software development, and domain expertise to build intelligent systems for real-world problems.
+I combine AI engineering, software development, and engineering domain expertise to build intelligent software systems for real-world applications.
 
-### What do I build?
+### 🚀 What do I build?
 
-I design and develop AI-powered software systems that go beyond conversational interfaces.
+I design and develop:
 
-My work focuses on building intelligent agents, connecting LLMs to external tools and computational engines, and automating complex workflows with reliable, verifiable execution.
+- **AI Agents** – Intelligent agents that reason, plan, use tools, and execute multi-step tasks.
+- **RAG Systems** – LLM-powered applications that retrieve and use relevant information from external knowledge sources.
+- **Workflow Automation** – AI-driven workflows that connect LLMs, APIs, and deterministic computational tools to automate complex processes.
 
-### What are my areas of expertise?
+My focus is on building practical, reliable, and verifiable AI systems rather than simple conversational applications.
 
-- **Agentic AI:** AI agents, multi-step reasoning, tool calling, and workflow orchestration.
-- **Generative AI & RAG:** LLM applications, retrieval systems, and knowledge-based solutions.
-- **AI Engineering:** Python backend development, APIs, system integration, and automation.
-- **Engineering AI:** AI-assisted simulation, Finite Element Analysis (FEA), and computational engineering.
-- **IoT & Intelligent Systems:** Device integration, MQTT-based communication, and data-driven applications.
+### 🎯 What are my areas of expertise?
+
+- **Agentic AI:** AI agents, LangGraph, tool calling, and workflow orchestration.
+- **Generative AI & RAG:** LLM applications, retrieval pipelines, and knowledge-based systems.
+- **Engineering AI:** AI-assisted engineering workflows, Finite Element Analysis (FEA), and simulation automation.
+- **Software Engineering:** Python, backend development, API integration, and system architecture.
 
 ---
 
 ### 🛠️ Technology Stack
 
-| Area                          | Technologies                                  |
-| ----------------------------- | --------------------------------------------- |
-| AI & LLMs                     | Python, OpenAI API, LangChain, LangGraph, RAG |
-| Backend & Integration         | FastAPI, REST APIs, Docker, Git               |
-| Data & Computing              | NumPy, Pandas, Scikit-learn, SQL              |
-| AI Evaluation & Observability | Ragas, DeepEval, Langfuse                     |
-| Engineering Simulation        | Code_Aster, OpenSees, Abaqus, ANSYS, Gmsh     |
-| IoT                           | MQTT, ESP32                                   |
+| Area | Technologies |
+|---|---|
+| AI & LLM Engineering | Python, OpenAI API, LangChain, LangGraph |
+| RAG & Evaluation | RAG, Ragas, DeepEval, Langfuse |
+| Backend & Infrastructure | FastAPI, REST APIs, Docker, Git, Linux |
+| Data & Scientific Computing | NumPy, Pandas, Scikit-learn, SQL |
+| Engineering Simulation | Code_Aster, OpenSees, Abaqus, ANSYS, Gmsh |
+| IoT & Communication | MQTT, ESP32 |
 
 ---
 
 ### 📫 Contact
 
-- Email: [yarmohammadi.amir@gmail.com](mailto\:yarmohammadi.amir@gmail.com)
+- Email: [yarmohammadi.amir@gmail.com](mailto:yarmohammadi.amir@gmail.com)
 - LinkedIn: [Amir Yarmohamadi](https://www.linkedin.com/in/amir-yarmohamadi/)
 
 ---
 
-*"Building intelligent systems by connecting AI with real-world engineering and software solutions."*
+*"Building intelligent software systems through Agentic AI, RAG, and engineering expertise."*
