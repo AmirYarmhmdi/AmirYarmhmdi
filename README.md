@@ -13,7 +13,7 @@
 <h3>Who am I?</h3>
 
   
-I'm an AI Engineer with a background in Structural Engineering and an MSc in Digital Skills for Sustainable Societal Transitions from Politecnico di Torino, Italy.
+I'm an AI Engineer with a background in Engineering and an MSc in Digital Skills for Sustainable Societal Transitions from Politecnico di Torino, Italy.
 
 I combine AI engineering, software development, and engineering domain expertise to build intelligent software systems for real-world applications.
 
