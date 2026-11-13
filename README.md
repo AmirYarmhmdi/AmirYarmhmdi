@@ -40,7 +40,7 @@ My focus is on building practical, reliable, and verifiable AI systems rather th
 
 ---
 
-## Technology Stack
+### Technology Stack
 
 | Area | Technologies |
 |---|---|
@@ -53,7 +53,7 @@ My focus is on building practical, reliable, and verifiable AI systems rather th
 
 ---
 
-## Contact
+### Contact
 
 - Email: [yarmohammadi.amir@gmail.com](mailto:yarmohammadi.amir@gmail.com)
 - LinkedIn: [Amir Yarmohamadi](https://www.linkedin.com/in/amir-yarmohamadi/)
