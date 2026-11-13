@@ -22,9 +22,9 @@ I combine AI engineering, software development, and engineering domain expertise
 
 I design and develop:
 
-- **AI Agents** – Intelligent agents that reason, plan, use tools, and execute multi-step tasks.
-- **RAG Systems** – LLM-powered applications that retrieve and use relevant information from external knowledge sources.
-- **Workflow Automation** – AI-driven workflows that connect LLMs, APIs, and deterministic computational tools to automate complex processes.
+- **AI Agents:**  Intelligent agents that reason, plan, use tools, and execute multi-step tasks.
+- **RAG Systems:**  LLM-powered applications that retrieve and use relevant information from external knowledge sources.
+- **Workflow Automation:**  AI-driven workflows that connect LLMs, APIs, and deterministic computational tools to automate complex processes.
 
 My focus is on building practical, reliable, and verifiable AI systems rather than simple conversational applications.
 
